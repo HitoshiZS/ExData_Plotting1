@@ -1,3 +1,8 @@
+## Instructions
+
+Run processing.R before running plot1.R
+
+
 ## Introduction
 
 This assignment uses data from
